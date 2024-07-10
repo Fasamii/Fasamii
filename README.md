@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fasamii
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: email me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I realy like pasta
