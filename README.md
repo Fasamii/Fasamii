@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Fasamii
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: email me
+- 📫 you can email me fasami0512@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I realy like pasta
+- 🎉 15 yo
+- 🇵🇱 I'm Polish 💥
