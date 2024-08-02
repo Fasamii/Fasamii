@@ -4,3 +4,4 @@
 - 😄 Pronouns: he/him 🐱
 - 🎉 15 yo 🍾
 - 🇵🇱 I'm Polish 💥
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii"/>
