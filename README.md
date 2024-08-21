@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Fasamii ‼️‼️‼️
-- 🌱 I’m currently learning CSS 📈
+- 👋 Hi, I’m 🔥Fasamii🔥 ‼️‼️‼️
+- 🌱 I’m currently learning js and node.js 📈
 - 📫 you can email me fasami0512@gmail.com 📬
 - 😄 Pronouns: he/him 🐱
 - 🎉 15 yo 🍾
-- 🇵🇱 I'm Polish 💥
+- 🇵🇱 I'm Polish💥
 <br>
 <img 
 style="max-width: 100%; display: block; margin: 8px;"
