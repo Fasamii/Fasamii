@@ -12,15 +12,6 @@
 <hr>
 <div align="left">
   <p>My badges (click on badge to see more)</p>
-<style> 
-    .badge { transition: ease-in-out 100ms }
-    .badge:hover {
-        transform: scale(1.5) rotateZ(10deg) translateY(-5%);
-    }
-    .badge:active {
-        transform: scale(1.3) rotateZ(8deg);
-    }
-</style>
 
   <a href="https://www.credly.com/badges/6b16e734-5767-4d61-9062-25a45c1bca53/public_url" target="_blank" rel="noopener noreferrer">
     <img class="badge" src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" 
