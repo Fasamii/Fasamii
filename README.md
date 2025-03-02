@@ -7,7 +7,7 @@
 <p>Most used languages</p>
 <img 
   style="max-width: 100%; display: block; margin: 8px;"
-  src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Fasamii&amp;langs_count=10&amp;bg_color=001011&amp;text_color=ff8c00&amp;border_color=ff8c00&amp;layout=compact&amp;hide_title=true" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii&langs_count=10&layout=compact&hide_title=true&show_icons=true&theme=onedark&bg_color=00000000&text_color=bf1a8f&border_color=bf1a8f&" 
   alt="Fasami's most used languages shoud be here">
 <hr>
 <div align="left">
