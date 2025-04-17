@@ -6,7 +6,7 @@
   />
 </p>
 <hr>
-<p align="center">Most used languages/p>
+<p align="center">Most used languages</p>
   <p align="center">
     <img
       style="display: block; margin: 8px;"
