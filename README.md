@@ -16,7 +16,7 @@
   </p>
 <hr>
 <div align="left">
-  <p align="center">```diff - My badges (click on badge to see more) **red** </p>
+  <p align="center"> $\color{#ff0}{\textsf{test}}$ My badges (click on badge to see more)</p>
   <p align="center">
     <a href="https://www.credly.com/badges/6b16e734-5767-4d61-9062-25a45c1bca53/public_url" target="_blank" rel="noopener noreferrer">
       <img class="badge" src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" style="width: 48px; height: 48px; padding: 20px;" title="cisco - Cisco Networking Basics">
