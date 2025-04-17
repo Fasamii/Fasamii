@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./scroll.svg" alt="Scrolling intro" />
+  <img
+    style="width: 100vw"
+    src="./scroll.svg"
+    alt="Scrolling intro"
+  />
 </p>
 <hr style="border-color: #E91931;">
 <p align="center">Most used languages</p>
