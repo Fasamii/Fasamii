@@ -1,24 +1,30 @@
-<!-- scroll-fade.svg -->
+<!-- scroll-loop.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="40">
   <defs>
+    <!-- fade‐in/out mask, same as before -->
     <mask id="fade-mask">
-      <!-- gradient: 0% & 100% transparent, 10%–90% fully opaque -->
       <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%"   stop-color="white" stop-opacity="0"/>
         <stop offset="10%"  stop-color="white" stop-opacity="1"/>
         <stop offset="90%"  stop-color="white" stop-opacity="1"/>
         <stop offset="100%" stop-color="white" stop-opacity="0"/>
       </linearGradient>
-      <!-- a rectangle covering the whole SVG painted with that gradient -->
       <rect x="0" y="0" width="100%" height="100%" fill="url(#lg)" />
     </mask>
   </defs>
 
-  <!-- group the animated text under that mask -->
   <g mask="url(#fade-mask)">
-    <text x="600" y="25" font-size="16" fill="#E91931" font-family="sans-serif">
-      <animate attributeName="x" from="600" to="-1200" dur="20s" repeatCount="indefinite"/>
-      👋 Hi, I’m Fasamii 📫 fasami0512@gmail.com 🐱 he/him 🎉 16 yo 🇵🇱 Polish 
-    </text>
+    <!-- two copies of the same text, side by side -->
+    <text x="0"   y="25" font-size="16" fill="#E91931" font-family="sans-serif">👋 Hi, I’m 🔥Fasamii🔥 … 🇵🇱 Polish💥</text>
+    <text x="600" y="25" font-size="16" fill="#E91931" font-family="sans-serif">👋 Hi, I’m 🔥Fasamii🔥 … 🇵🇱 Polish💥</text>
+
+    <!-- animate the entire group leftwards by one “screen” (=600px) -->
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0,0"
+      to="-600,0"
+      dur="20s"
+      repeatCount="indefinite"/>
   </g>
 </svg>
