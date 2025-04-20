@@ -6,7 +6,7 @@
   />
 </p>
 <hr>
-<p align="center"><strong>Curently learning</strong></p>
+<p align="center"><strong>Currently learning</strong></p>
 <p align="center">
   🦀 Rust &nbsp;&nbsp;
   ⚙️ Asembly &nbsp;&nbsp;
