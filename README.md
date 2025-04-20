@@ -8,9 +8,9 @@
 <hr>
 <p align="center"><strong>Curently learning</strong></p>
 <p align="center">
-  🦀 <strong>Rust</strong> &nbsp;&nbsp;
-  ⚙️ <strong>Asembly</strong> &nbsp;&nbsp;
-  📚 <strong>Math</strong>
+  🦀 Rust &nbsp;&nbsp;
+  ⚙️ Asembly &nbsp;&nbsp;
+  📚 Math
 </p>
 <hr>
 <p align="center"><strong>Most used languages</strong></p>
