@@ -9,7 +9,7 @@
 <p align="center"><strong>Currently learning</strong></p>
 <p align="center">
   🦀 Rust &nbsp;&nbsp;
-  ⚙️ Asembly &nbsp;&nbsp;
+  ⚙️ Assembly &nbsp;&nbsp;
   📚 Math
 </p>
 <hr>
