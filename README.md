@@ -11,7 +11,7 @@
     <img
       style="display: block; margin: 8px;"
       alt="Fasami's most used languages shoud be here"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii&langs_count=12&layout=compact&hide_title=true&show_icons=true&theme=onedark&bg_color=00000000&text_color=FFFFFFFF&border_color=00000000&hide=GLSL"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii&langs_count=12&layout=compact&hide_title=true&show_icons=true&theme=onedark&bg_color=00000000&text_color=FFFFFFFF&border_color=00000000&hide=GLSL"
     />
   </p>
 <hr>
