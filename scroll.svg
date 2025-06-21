@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 600 20"
+     viewBox="0 0 1600 60"
      width="100%"
-     height="2em"
+     height="3em"
      preserveAspectRatio="xMidYMid meet">
   <style><![CDATA[
     text {
       font-family: sans-serif;
-      font-size: 1.5em;
+      font-size: calc(1em + 0.5vw);
       fill: white;
       dominant-baseline: middle;
+      white-space: nowrap;
     }
   ]]></style>
 
@@ -25,9 +26,9 @@
   </defs>
 
   <g mask="url(#fade-mask)">
-    <text x="600" y="50%">
-      <animate attributeName="x" from="600" to="-600" dur="20s" repeatCount="indefinite" />
-      👋 Hi, I’m Fasamii 📫 fasami0512@gmail.com 🐱 he/him 🎉 16 yo 🇵🇱 Polish
+    <text x="1600" y="50%">
+      <animate attributeName="x" from="1600" to="-1600" dur="25s" repeatCount="indefinite" />
+      👋 Hi, I’m Fasamii 📫 fasami0512@gmail.com 🐱 he/him 🎉 16 yo 🇵🇱 Polish 🇵🇱 Linux nerd 🍄 Terminal God
     </text>
   </g>
 </svg>
