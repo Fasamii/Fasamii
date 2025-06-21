@@ -34,7 +34,6 @@
     src="https://go-skill-icons.vercel.app/api/icons?i=c,lua"
   />
 </p>
-<hr>
 <div align="left">
   <p align="center"><strong>My badges</strong> (click on badge to see more)</p>
   <p align="center">
