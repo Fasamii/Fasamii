@@ -6,13 +6,6 @@
   />
 </p>
 <hr>
-<p align="center"><strong>Currently learning</strong></p>
-<p align="center">
-  🦀 Rust &nbsp;&nbsp;
-  ⚙️ Assembly &nbsp;&nbsp;
-  📚 Math
-</p>
-<hr>
 <p align="center"><strong>Most used languages</strong></p>
   <p align="center">
     <img
@@ -42,3 +35,10 @@
     </a>
   </p>
 </div>
+<hr>
+<p align="center"><strong>Currently learning</strong></p>
+<p align="center">
+  🦀 Rust &nbsp;&nbsp;
+  ⚙️ Assembly &nbsp;&nbsp;
+  📚 Math
+</p>
