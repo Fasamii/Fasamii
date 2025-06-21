@@ -1,5 +1,5 @@
 <!-- scroll-fade.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="40">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 40" preserveAspectRatio="xMidYMid slice" style="width: 100%; height: auto;">
   <defs>
     <mask id="fade-mask">
       <!-- gradient: 0% & 100% transparent, 10%–90% fully opaque -->
