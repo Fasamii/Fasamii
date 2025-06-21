@@ -6,7 +6,7 @@
   <!-- internal CSS -->
   <style type="text/css"><![CDATA[
     text {
-      font-size: 4em;
+      font-size: 1em;
       font-family: sans-serif;
       fill: white;
     }
