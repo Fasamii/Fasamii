@@ -24,7 +24,7 @@
 <p align="center"><strong>Langs I'am efficient with</strong></p>
 <p align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=c,lua"
+  src="https://go-skill-icons.vercel.app/api/icons?i=c,lua"
   />
 </p>
 <div align="left">
