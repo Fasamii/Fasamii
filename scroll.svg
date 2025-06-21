@@ -16,7 +16,7 @@
 
   <!-- group the animated text under that mask -->
   <g mask="url(#fade-mask)">
-    <text x="600" y="25" font-size="16" fill="#E91931" font-family="sans-serif">
+    <text x="600" y="25" font-size="16" fill="#FFFFFF" font-family="sans-serif">
       <animate attributeName="x" from="600" to="-1200" dur="20s" repeatCount="indefinite"/>
       👋 Hi, I’m Fasamii 📫 fasami0512@gmail.com 🐱 he/him 🎉 16 yo 🇵🇱 Polish 
     </text>
