@@ -5,17 +5,10 @@
 
   <!-- internal CSS -->
   <style type="text/css"><![CDATA[
-    /* default/core size */
-    text { font-size: 16px; }
-
-    /* on small viewports (phones), bump it up a little */
-    @media (max-width: 400px) {
-      text { font-size: 20px; }
-    }
-
-    /* on very wide viewports, cap it so it doesn’t explode */
-    @media (min-width: 1200px) {
-      text { font-size: 18px; }
+    text {
+      font-size: 3.5vw;
+      font-family: sans-serif;
+      fill: white;
     }
   ]]></style>
 
