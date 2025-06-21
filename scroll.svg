@@ -1,4 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 40" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 600 40"
+     preserveAspectRatio="xMidYMid meet"
+     width="100%">
+
+  <!-- internal CSS -->
+  <style type="text/css"><![CDATA[
+    /* default/core size */
+    text { font-size: 16px; }
+
+    /* on small viewports (phones), bump it up a little */
+    @media (max-width: 400px) {
+      text { font-size: 20px; }
+    }
+
+    /* on very wide viewports, cap it so it doesn’t explode */
+    @media (min-width: 1200px) {
+      text { font-size: 18px; }
+    }
+  ]]></style>
+
   <defs>
     <mask id="fade-mask">
       <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -7,22 +27,17 @@
         <stop offset="90%"  stop-color="white" stop-opacity="1"/>
         <stop offset="100%" stop-color="white" stop-opacity="0"/>
       </linearGradient>
-      <rect x="0" y="0" width="600" height="40" fill="url(#lg)" />
+      <rect width="600" height="40" fill="url(#lg)" />
     </mask>
   </defs>
 
   <g mask="url(#fade-mask)">
-    <text
-      x="600"
-      y="25"
-      font-size="16"
-      fill="white"
-      font-family="sans-serif"
-      textLength="1800"
-      lengthAdjust="spacingAndGlyphs"
-    >
-      <animate attributeName="x" from="600" to="-1200" dur="20s" repeatCount="indefinite" />
-      👋 Hi, I’m Fasamii 📫 fasami0512@gmail.com 🐱 he/him 🎉 16 yo 🇵🇱 Polish 
+    <text x="600" y="25" fill="white" font-family="sans-serif">
+      <animate attributeName="x"
+               from="600" to="-1200"
+               dur="20s"
+               repeatCount="indefinite" />
+      👋 Hi, I’m Fasamii 📫 fasami0512@gmail.com 🐱 he/him 🎉 16 yo 🇵🇱 Polish
     </text>
   </g>
 </svg>
