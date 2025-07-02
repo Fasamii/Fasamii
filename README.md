@@ -15,11 +15,11 @@
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii&langs_count=12&layout=compact&hide_title=true&show_icons=true&theme=default&bg_color=ffffff00&text_color=000000FF&border_color=ffffff0&hide=GLSL"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii&langs_count=12&layout=compact&hide_title=true&show_icons=true&theme=default&bg_color=ffffff00&text_color=000000FF&border_color=00000000&hide=GLSL"
     />
    <img
       alt="Fasami’s most used languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii&langs_count=12&layout=compact&hide_title=true&show_icons=true&theme=default&bg_color=ffffff00&text_color=888888FF&border_color=ffffff00
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasamii&langs_count=12&layout=compact&hide_title=true&show_icons=true&theme=default&bg_color=ffffff00&text_color=888888FF&border_color=00000000
            &hide=GLSL"
       style="display: block; margin: 8px;"
     />
