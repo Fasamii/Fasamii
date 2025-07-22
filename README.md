@@ -1,11 +1,11 @@
-<p align="center">
+<!-- <p align="center">
   <img
     style="width: 100vw"
     src="./scroll.svg"
     alt="Scrolling intro"
   />
 </p>
-<hr>
+<hr> -->
 <p align="center"><strong>Most used languages</strong></p>
   <p align="center">
  <picture>
